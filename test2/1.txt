@@ -1,0 +1,7 @@
+A class-name is inserted into the scope in which it is declared immediately after the class-name is seen.
+The class-name is also inserted into the scope of the class itself; this is known as the injected-class-name.
+For purposes of access checking, the injected-class-name is treated as if it were a public member name. A
+class-specifier is commonly referred to as a class definition. A class is considered defined after the closing
+brace of its class-specifier has been seen even though its member functions are in general not yet defined.
+The optional attribute-specifier-seq appertains to the class; the attributes in the attribute-specifier-seq are
+thereafter considered attributes of the class whenever it is named.
