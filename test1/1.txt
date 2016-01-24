@@ -1,3 +1,8 @@
+lian
+
+hua
+
+shao
 total 32
 lrwxrwxrwx.   1 root root    7 Mar 31  2015 bin -> usr/bin
 dr-xr-xr-x.   5 root root 4096 Mar 31  2015 boot
